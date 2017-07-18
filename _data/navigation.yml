@@ -2,6 +2,8 @@
 main:
   - title: "home"
     url: /
+  - title: "back"
+    url: https://wychwit.ch/
   - title: "blog"
     url: /blog
   - title: "stories"
