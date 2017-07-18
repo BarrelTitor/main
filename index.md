@@ -3,7 +3,7 @@ layout: home
 comments: false
 ---
 
-Here you can find my stories and my blog! Just follow the links up top ^
+Hello! My name is Wych, and welcome to my site! I'm a writer, game developer, and day dreamer. I hope you like what I have to offer!
 
 
 
