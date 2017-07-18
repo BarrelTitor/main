@@ -48,6 +48,6 @@
 }
 
 .page__footer-heart {
-  color: $theme-color;
+  color: mix($theme-color , $gray, 80%);
 }
 
