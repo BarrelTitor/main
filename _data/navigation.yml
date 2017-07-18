@@ -1,21 +1,21 @@
 # main links
 main:
-  - title: "home"
+  - title: <span class="fa fa-home fa-lg main-list-item-icon"></span> home
     url: /
-  - title: "blog"
+  - title: <span class="fa fa-folder-open fa-lg main-list-item-icon"></span> blog
     url: /blog
-  - title: "stories"
+  - title: <span class="fa fa-pencil fa-lg main-list-item-icon"></span> stories
     url: /stories
   - title: <span class="fa fa-book fa-lg main-list-item-icon"></span> Wiki
     url: http://grimoire.wychwit.ch
-  - title: "contacts"
+  - title: <span class="fa fa-address-book fa-lg main-list-item-icon"></span>contacts
     url: /
     children: 
-      - title: <span class="fa fa-twitter fa-lg main-list-item-icon"></span> twitter
+      - title: <span class="fa fa-twitter fa-sm main-list-item-icon"></span>
         url: https://twitter.com/wychwitch
-      - title: <span class="fa fa-envelope-o fa-lg main-list-item-icon"></span>
+      - title: <span class="fa fa-envelope-o fa-sm main-list-item-icon"></span>
         url: mailto:wytchwitchcraft@gmail.com
-      - title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span> Tumblr
+      - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span>
         url: https://wychwitch.tumblr.com/
-  - title: "subscribe"
+  - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span> subscribe
     url: /feed.xml
