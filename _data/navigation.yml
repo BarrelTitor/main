@@ -17,5 +17,5 @@ main:
         url: mailto:wytchwitchcraft@gmail.com
       - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span>
         url: https://wychwitch.tumblr.com/
-  - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span> subscribe
+  - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
     url: /feed.xml
