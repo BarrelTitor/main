@@ -11,7 +11,7 @@ baseurl                  : "/main" # the subpath of your site, e.g. "/blog" leav
 
 # Site Author
 author:
-  name                   : "Lingyi" # appears in the footer and atom feed
+  name                   : "Wych" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
