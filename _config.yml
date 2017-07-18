@@ -1,9 +1,9 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "Sparrow"
+title                    : "Wych Witch"
 title_separator          : "-"
-description              : "A clean and minimal theme for writers."
+description              : "A Garden of Magic."
 favicon                  : "/assets/images/wych.png"
 avatar                   : "/assets/images/wych.png"
 url                      : "https://wychwit.ch" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
