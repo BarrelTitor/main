@@ -11,7 +11,7 @@ main:
   - title: "Contacts"
     url: /
     children: 
-      - title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span>"item 1"
+      - title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span> Uhhh
         url: /404
       - title: "item 2"
         url: /404
