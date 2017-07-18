@@ -8,6 +8,8 @@ main:
     url: /stories
   - title: <span class="fa fa-book fa-sm main-list-item-icon"></span> wiki
     url: http://grimoire.wychwit.ch
+  - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
+    url: /feed.xml
   - title: contacts
     url: /
     children: 
@@ -17,5 +19,3 @@ main:
         url: mailto:wytchwitchcraft@gmail.com
       - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span>
         url: https://wychwitch.tumblr.com/
-  - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
-    url: /feed.xml
