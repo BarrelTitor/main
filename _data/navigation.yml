@@ -11,7 +11,6 @@ main:
   - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
     url: /feed.xml
   - title: contacts
-    url: /
     children: 
       - title: <span class="fa fa-twitter fa-sm main-list-item-icon"></span>
         url: https://twitter.com/wychwitch
