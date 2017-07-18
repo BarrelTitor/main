@@ -8,5 +8,12 @@ main:
     url: /blog
   - title: "stories"
     url: /stories
+  - title: "Contacts"
+    url: /
+    children: 
+      - title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span>"item 1"
+        url: /404
+      - title: "item 2"
+        url: /404
   - title: "subscribe"
     url: /feed.xml
