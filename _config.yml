@@ -7,7 +7,7 @@ description              : "A Garden of Magic."
 favicon                  : "/assets/images/wych.png"
 avatar                   : "/assets/images/wych.png"
 url                      : "https://wychwit.ch" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/main" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+baseurl                  : "/" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
