@@ -18,8 +18,8 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: #413e4a;
-  border-top: 1px solid mix(#413e4a, $gray, 50%);
+  background-color: mix(#fff, $gray, 90%);
+  border-top: 1px solid mix(#fff, $gray, 50%);
 
   footer {
     @include container;
