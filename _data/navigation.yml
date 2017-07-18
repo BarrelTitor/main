@@ -6,7 +6,7 @@ main:
     url: /blog
   - title: <span class="fa fa-pencil fa-sm main-list-item-icon"></span> stories
     url: /stories
-  - title: <span class="fa fa-book fa-sm main-list-item-icon"></span> Wiki
+  - title: <span class="fa fa-book fa-sm main-list-item-icon"></span> wiki
     url: http://grimoire.wychwit.ch
   - title: contacts
     url: /
