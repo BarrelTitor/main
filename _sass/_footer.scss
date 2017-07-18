@@ -18,7 +18,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: #7c7391;
+  background-color: (#7c7391, $gray, 10%);
   border-top: 1px solid mix(#fff, $gray, 50%);
 
   footer {
