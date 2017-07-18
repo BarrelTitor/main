@@ -2,18 +2,20 @@
 main:
   - title: "home"
     url: /
-  - title: "back"
-    url: https://wychwit.ch/
   - title: "blog"
     url: /blog
   - title: "stories"
     url: /stories
-  - title: "Contacts"
+  - title: <span class="fa fa-book fa-lg main-list-item-icon"></span> Wiki
+    url: http://grimoire.wychwit.ch
+  - title: "contacts"
     url: /
     children: 
-      - title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span> Uhhh
-        url: /404
-      - title: "item 2"
-        url: /404
+      - title: <span class="fa fa-twitter fa-lg main-list-item-icon"></span> twitter
+        url: https://twitter.com/wychwitch
+      -title: <span class="fa fa-envelope-o fa-lg main-list-item-icon"></span>
+        url: mailto:wytchwitchcraft@gmail.com
+      -title: <span class="fa fa-tumblr fa-lg main-list-item-icon"></span> Tumblr
+        url: https://wychwitch.tumblr.com/
   - title: "subscribe"
     url: /feed.xml
