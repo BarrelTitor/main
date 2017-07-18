@@ -1,0 +1,10 @@
+---
+layout: page
+title: "stories: a collection"
+permalink: /stories/
+subtitle: You can write your own subtitle here, to tell people what your collection is about
+---
+
+{% for post in site.stories reversed %}
+  {% include post-entry.html %}
+{% endfor %}
