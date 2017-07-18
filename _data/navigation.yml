@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "<span class="fa fa-home fa-sm main-list-item-icon"></span>"
+  - title: <span class="fa fa-home fa-sm main-list-item-icon"></span>
     url: /
   - title: "blog"
     url: /blog
