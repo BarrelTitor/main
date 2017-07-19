@@ -19,7 +19,7 @@ You can also find me on these sites!
 <span class="fa-stack fa-lg">
   <i class="fa fa-file-text fa-stack-2x"></i>
   <i class="fa fa-pencil fa-stack-2x"></i>
-</span></i><a href="https://wychwitch.tumblr.com">tumblr</a></font> 
+</span><a href="https://wychwitch.tumblr.com">tumblr</a></font> 
 
 <i class="fa fa-cog fa-spin fa-sm fa-fw"></i>
 <span class="sr-only">Loading...</span> **Under Construction** <i class="fa fa-cog fa-spin fa-sm fa-fw"></i>
