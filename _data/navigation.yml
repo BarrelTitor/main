@@ -10,11 +10,9 @@ main:
     url: http://grimoire.wychwit.ch
   - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
     url: /feed.xml
-  - title: contacts
-    children: 
+  - title: contact
+    children:
       - title: <span class="fa fa-twitter fa-sm main-list-item-icon"></span>
         url: https://twitter.com/wychwitch
       - title: <span class="fa fa-envelope-o fa-sm main-list-item-icon"></span>
         url: mailto:wytchwitchcraft@gmail.com
-      - title: <span class="fa fa-tumblr fa-sm main-list-item-icon"></span>
-        url: https://wychwitch.tumblr.com/
