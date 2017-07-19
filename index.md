@@ -8,7 +8,7 @@ Hello! My name is Wych, and welcome to my site! I'm an aspiring writer, game dev
 You can also find me on these sites!
 
 
-<i class="fa fa-twitter fa-1x fa-fw"></i> <font size="+1"><a href="https://twitter.com/wychwitch">twitter</a></font> (best place to contact me!)
+<i class="fa fa-twitter fa-1x fa-fw"></i> <font size="+1"><a href="https://twitter.com/wychwitch">twitter</a></font> _best place to contact me!_
 
 <i class="fa fa-gamepad fa-1x fa-fw"></i> <font size="+1"><a href="https://wychwitch.itch.io">itch.io</a></font>
 
