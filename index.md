@@ -7,7 +7,7 @@ Hello! My name is Wych, and welcome to my site! I'm an aspiring writer, game dev
 
 You can also find me on these sites!
 
-<i class="fa fa-tumblr fa-lg fa-fw"></i> <font size="+2"><a href="https://wychwitch.tumblr.com">Tumblr</font></a>
+<i class="fa fa-tumblr fa-3x fa-fw"></i> <font size="+2"><a href="https://wychwitch.tumblr.com">Tumblr</a></font>
 
 <i class="fa fa-gamepad fa-lg fa-fw"></i> [itch.io](wychwitch.itch.io)
 
