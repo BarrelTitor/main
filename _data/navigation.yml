@@ -12,7 +12,7 @@ main:
     children:
       - title: <span class="fa fa-twitter fa-sm main-list-item-icon"></span>
         url: https://twitter.com/wychwitch
-      - title: <span class="fa fa-envelope-o fa-sm main-list-item-icon"></span>
-        url: mailto:wychwitchcraft@gmail.com
+      - title: <a href="mailto:wychwitchcraft@gmail.com"><span class="fa fa-envelope-o fa-sm main-list-item-icon"></span></a>
+        url: 
   - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
     url: /feed.xml
