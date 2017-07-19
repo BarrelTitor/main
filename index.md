@@ -16,8 +16,8 @@ You can also find me on these sites!
 
 <span class="fa-stack fa-lg">
   <i class="fa fa-file-o fa-stack-2x"></i>
-  <i class="fa fa-pencil fa-stack-2x"></i>
-</span> <font size="+2"><a href="https://wychwitch.tumblr.com">AO3</a></font> 
+  <i class="fa fa-pencil fa-stack-1x"></i>
+</span> <font size="+2"><a href="https://wychwitch.tumblr.com">AO3</a></font>
 
 <i class="fa fa-cog fa-spin fa-sm fa-fw"></i>
 <span class="sr-only">Loading...</span> **Under Construction** <i class="fa fa-cog fa-spin fa-sm fa-fw"></i>
