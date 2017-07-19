@@ -8,7 +8,5 @@ main:
     url: /stories
   - title: <span class="fa fa-book fa-sm main-list-item-icon"></span> wiki
     url: http://grimoire.wychwit.ch
-  - title: contact
-    url: /contact.html
   - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
     url: /feed.xml
