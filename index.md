@@ -17,5 +17,5 @@ You can also find me on these sites!
 <i class="fa fa-envelope-o fa-1x main-list-item-icon"></i><font size="+1"><a href="mailto:wychwitchcraft@gmail.com"> Email</a></font>
 
 <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
-<span class="sr-only">Loading...</span> <font size="+3">**Under Construction**</font> <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
+<span class="sr-only">Loading...</span> <font size="+3"> Under Construction</font> <i class="fa fa-cog fa-spin fa-3x fa-fw"></i>
 <span class="sr-only">Loading...</span>
