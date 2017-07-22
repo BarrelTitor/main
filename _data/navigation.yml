@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: <span class="fa fa-home fa-sm main-list-item-icon"></span>
+  - title: <span class="fa fa-home fa-sm main-list-item-icon"></span> home
     url: /
-  - title: "blog"
+  - title: <span class="fa fa-genderless fa-sm main-list-item-icon"></span> blog
     url: /blog
   - title: <span class="fa fa-pencil fa-sm main-list-item-icon"></span> stories
     url: /stories
   - title: <span class="fa fa-book fa-sm main-list-item-icon"></span> wiki
     url: http://grimoire.wychwit.ch
-  - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span>
+  - title: <span class="fa fa-rss fa-sm main-list-item-icon"></span> rss
     url: /feed.xml
