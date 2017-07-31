@@ -19,5 +19,3 @@ You can also find me on these sites!
 <i class="fa fa-reddit-alien fa-1x fa-fw"></i> <font size="+1"><a href="https://www.reddit.com/user/WychWitch/">reddit account</a></font> <font size="-1"><i>for the stories i posted to the /r/writingprompts subreddit!</i></font>
 
 <i class="fa fa-envelope-o fa-1x main-list-item-icon"></i><font size="+1"><a href="mailto:wychwitchcraft@gmail.com"> Email</a></font> <font size="-1"><i>best place to contact me!</i></font>
-
----
