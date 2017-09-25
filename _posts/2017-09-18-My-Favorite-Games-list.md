@@ -7,7 +7,7 @@ Hey! Because I'm in between projects atm I'm going to make a post about my favor
 But lets get this started!! This right here is just a list, but I hope to do full write-ups soon!
 
 ##Within My Heart
- **Butterfly Soup** [link](https://brianna-lei.itch.io/butterfly-soup) *free!!*
+ **Butterfly Soup** [link](https://brianna-lei.itch.io/butterfly-soup) *free!!* *pls play god pls*
  **Earthbound** [link](https://www.wikiwand.com/en/EarthBound)
  **Undertale** [link](https://undertale.com/)
  **We Know The Devil** [link](http://store.steampowered.com/app/435300/We_Know_the_Devil/)
