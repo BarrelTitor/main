@@ -1,0 +1,22 @@
+---
+title: Inktober Prompts 1: Father and Daughter
+---
+inspired by the prompts found [here](http://lesbianlinkle.tumblr.com/post/165291977635)
+
+*A nomadic father and daughter are travelling to their new home in the wake of an apocalypse, hoping beyond hope to find the security they're searching for.*
+
+"Are you getting tired?" Dad asked as we traveled across the white sand.
+
+"I'm okay." I told him, perking up and trying to walk with more energy than I really had.
+
+He let out a sigh, and began to slow down. "Mia, let's find some shade and take a break. It's about time you got something to eat."
+
+"I'm okay, really!" I said a little louder, running ahead as i shouted over my shoulder, my cloak rippling around my thin frame. "We gotta hurry! We don't have time to be sitting around."
+
+The sand dune I was running across suddenly gave way under me, the whole world jerking forward as I tumbled onto the baking sand.
+
+......
+
+[Read the rest here](https://www.fictionpress.com/~wychwitch)
+
+<cite>Wych</cite>
