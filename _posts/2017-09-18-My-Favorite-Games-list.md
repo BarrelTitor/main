@@ -7,6 +7,7 @@ Hey! Because I'm in between projects atm I'm going to make a post about my favor
 But lets get this started!! This right here is just a list, but I hope to do full write-ups soon!
 
 ##Within My Heart
+
  **Butterfly Soup** [link](https://brianna-lei.itch.io/butterfly-soup) *free!!*
 
  **Earthbound** [link](https://www.wikiwand.com/en/EarthBound)
@@ -28,10 +29,12 @@ But lets get this started!! This right here is just a list, but I hope to do ful
  **Persona 5** [link](https://www.wikiwand.com/en/Persona_5)
 
 ##A++
+
  **Oxenfree** [link](http://store.steampowered.com/app/388880/Oxenfree/)
- 
+
  **Lisa: The Painful RPG** [link](http://www.lisatherpg.com/)
 
 
 ## Yes Good games yes
+
  **Downwell** [link](http://store.steampowered.com/app/360740/Downwell/)
