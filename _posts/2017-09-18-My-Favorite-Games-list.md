@@ -6,7 +6,7 @@ Hey! Because I'm in between projects atm I'm going to make a post about my favor
 
 But lets get this started!! This right here is just a list, but I hope to do full write-ups soon!
 
-##Within My Heart
+## Within My Heart
 
  **Butterfly Soup** [link](https://brianna-lei.itch.io/butterfly-soup) *free!!*
 
@@ -28,7 +28,7 @@ But lets get this started!! This right here is just a list, but I hope to do ful
 
  **Persona 5** [link](https://www.wikiwand.com/en/Persona_5)
 
-##A++
+## A++
 
  **Oxenfree** [link](http://store.steampowered.com/app/388880/Oxenfree/)
 
