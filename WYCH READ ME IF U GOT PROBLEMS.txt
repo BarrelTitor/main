@@ -1,0 +1,12 @@
+If your story wont post, make sure that the file name is not only correct (yyyy-mm-dd-name) but you also have a empty line between the title's --- and the start of the document.
+
+Make sure that if you want something to be seperated, use empty lines and not
+
+like
+this
+
+but
+
+like
+
+This
